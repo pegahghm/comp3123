@@ -1,0 +1,17 @@
+#Here are the sample user details for testing login 
+
+
+{
+    "email": "alex@example.com",
+    "password": "alex2345"
+}
+---------------------------------------
+{
+	"email": "testuser@example.com",
+    "password": "password123"
+}
+---------------------------------------
+{
+	"email": "rose@example.com",
+    "password": "rose5546"
+}
